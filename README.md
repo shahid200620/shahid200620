@@ -103,11 +103,36 @@ Here are some of the technologies and tools I enjoy working with:
 
 ---
 
-### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shahid Ali Khan Mohammed)
+
+## 📫 Let's Connect & Build Something Amazing!
+
 ---
 
-* * *
+<div align="center">More actions
+
+### 🌟 *"The best way to predict the future is to build it"*
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshahidalikhan20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ShahidAliKhanMohammed/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahid200620)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mdshahidalikhan20/)
+
+<br>
+
+### 💭 Always excited to discuss:
+🌐 **Web development best practices** | 🚀 **Startup ecosystems** | 🧠 **New Innovations** | 📚 **Tech Education**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahid200620&style=for-the-badge&color=blueviolet)
+
+---
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 _Generated with ❤️ by [Shahid]_
