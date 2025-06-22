@@ -1,10 +1,8 @@
 <div id="header" align="center">
-  <div align="center">
     
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif"  width="100"/>
-  
-  </div>
+
+
   
   <h1>Hi there 👋, I'm MOHAMMED SHAHID ALI KHAN!</h1>
   
@@ -156,6 +154,8 @@ Here are some of the technologies and tools I enjoy working with:
 ---
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif"  width="600"/>
 
 </div>
 
