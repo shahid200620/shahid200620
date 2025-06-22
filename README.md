@@ -45,7 +45,7 @@
 
 Here are some of the technologies and tools I enjoy working with:
 
-**Languages:**
+**📜 Languages:**
 
 <div align="center">
 
@@ -56,43 +56,40 @@ Here are some of the technologies and tools I enjoy working with:
 
 </div>
 
-**Frameworks & Libraries:**
+---
+
+**🧰 Frameworks & Libraries:**
 
 <div align="center">
 
   
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 </div>
+---
 
-**Databases:**
+**💾 Databases:**
 
 
 <div align="center">
 
   
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
+---
 
-**Tools & Platforms:**
+**🛠️ Tools & Platforms:**
 
 
 <div align="center">
   
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
@@ -104,7 +101,6 @@ Here are some of the technologies and tools I enjoy working with:
 <div align="center">
   
 [![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid200620&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=dracula)](https://git.io/streak-stats)
