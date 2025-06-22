@@ -104,18 +104,17 @@ Here are some of the technologies and tools I enjoy working with:
 
 
 <div align="center">
+
+<img align="right" alt="Coding" width="300"   src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid200620&layout=compact&theme=radical&hide_border=true"/>
-  
+[![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23A91A0537&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23A91A0537&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 </div>
 
-#<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=radical&hide_border=true" />
-  
-</div>#
+
 
 
 
@@ -127,7 +126,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 ---
 
-<div align="center">More actions
+<div align="center">
 ### 🌟 *"The best way to predict the future is to build it"*
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" Width="500"/>
