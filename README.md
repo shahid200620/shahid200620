@@ -47,7 +47,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 **Languages:**
 
-<div align:"center">
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -58,7 +58,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 **Frameworks & Libraries:**
 
-<div align:"center">
+<div align="center">
 
   
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
@@ -72,7 +72,7 @@ Here are some of the technologies and tools I enjoy working with:
 **Databases:**
 
 
-<div align:"center">
+<div align="center">
 
   
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -84,7 +84,7 @@ Here are some of the technologies and tools I enjoy working with:
 **Tools & Platforms:**
 
 
-<div align:"center">
+<div align="center">
   
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
@@ -101,7 +101,7 @@ Here are some of the technologies and tools I enjoy working with:
 ### 📊 GitHub Stats
 
 
-<div align:"center">
+<div align="center">
   
 [![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
