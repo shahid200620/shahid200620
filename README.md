@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" Width="400"/>
   <h3>A passionate 🤖Tech Enthusiast and 🛠️🧠Self Taught Coder from Aditya University.</h3>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things;Let's+Build+Something+Amazing+!;Incubating+Entrepreneur;)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things;Let's+Build+Something+Amazing+!;Incubating+Entrepreneur;)(https://git.io/typing-svg)
 ---
 
 ### 🙋‍♂️ About Me
