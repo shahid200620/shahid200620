@@ -20,11 +20,13 @@
 
 🔥  **Passion:** Diving deep into **web development**, **data science**, and **mobile apps**, building impactful solutions that make a difference.
 
+<img align="right" alt="Coding" width="360"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 🏢  **Currently:** Actively learning and building personal projects while seeking new challenges.
 
 🌟  **Proud Achievement:** As a **2024 UIF Cohort member**, I had the incredible opportunity to attend the **University Innovation Fellows (UIF) Meetup at Stanford University** – a truly inspiring experience! ✨🌉
 
-<img align="right" alt="Coding" width="270"   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 💡  **Current Focus:** Mastering **Python** and **React** to create robust and user-friendly applications.
 
