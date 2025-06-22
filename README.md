@@ -111,11 +111,11 @@ Here are some of the technologies and tools I enjoy working with:
   
 </div>
 
-<div align="center">
+#<div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=radical&hide_border=true" />
   
-</div>
+</div>#
 
 
 
