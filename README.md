@@ -7,7 +7,7 @@
   <h3>A passionate 🤖Tech Enthusiast and 🛠️🧠Self Taught Coder from Aditya University.</h3>
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=9E71F7&width=435&lines=Let's+build+something+Amazing!;Incubating++Entrepreneur;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=9E71F7&width=435&lines=Let's+build+something+Amazing!;Incubating++Entrepreneurship;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 </div>
@@ -16,16 +16,20 @@
 
 ## 🙋‍♂️ About Me
 
-🎯 **Mission:** Building production-ready AI systems that actually solve real problems  
-🔥 **Passion:** RAG pipelines, LLM orchestration, and AI agents that work like magic  
-🏢 **Currently:** ML Research Intern at **Aegion Dynamic Solutions**  
-💡 **Current Focus:** Medical AI systems using Knowledge Graphs and advanced reasoning  
+🎯  **Mission:** Crafting elegant and efficient code that brings innovative ideas to life.
+🔥  **Passion:** Diving deep into **web development**, **data science**, and **mobile apps**, building impactful solutions that make a difference.
+🏢  **Currently:** Actively learning and building personal projects while seeking new challenges.
 
-### What Drives Me:
-- 🧠 Turning complex AI research into practical solutions
-- 🚀 Creating tools that make developers' lives easier
-- 🤝 Sharing knowledge and mentoring the next generation
-- 🔍 Always curious about the "why" behind every algorithm
+🌟  **Proud Achievement:** As a **2024 UIF Cohort member**, I had the incredible opportunity to attend the **University Innovation Fellows (UIF) Meetup at Stanford University** – a truly inspiring experience! ✨🌉
+
+💡  **Current Focus:** Mastering **Python** and **React** to create robust and user-friendly applications.
+
+**What Drives Me:**
+
+* 🧠 Uncovering patterns in data to solve complex problems.
+* 🚀 Staying on the cutting edge of web technologies.
+* 🤝 Collaborating with designers and other developers to create stunning interfaces.
+* 🔍 Ensuring every pixel and every interaction is perfect.
 
 <br clear="both"/>
 
