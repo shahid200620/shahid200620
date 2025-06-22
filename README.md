@@ -104,12 +104,15 @@ Here are some of the technologies and tools I enjoy working with:
 
 
 <div align="center">
-  
-[![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid200620&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=dracula)](https://git.io/streak-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhileshMalthi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshMalthi&layout=compact&theme=radical&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshMalthi&theme=radical&hide_border=true" />
+</div>
+
+
 
 ---
 
