@@ -1,9 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>Hi there 👋, I'm YOUR_NAME!</h1>
-  <h3>A passionate YOUR_PRIMARY_ROLE from YOUR_LOCATION.</h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
+  <h1>Hi there 👋, I'm MOHAMMED SHAHID ALI KHAN!</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" Width="400"/>
+  <h3>A passionate 🤖Tech Enthusiast and 🛠️🧠Self Taught Coder from Aditya University.</h3>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning+New+Things;Let's+Build+Something+Amazing+!;Incubating+Entrepreneur;)](https://git.io/typing-svg)
 ---
 
 ### 🙋‍♂️ About Me
@@ -48,20 +49,17 @@ Here are some of the technologies and tools I enjoy working with:
 
 ### 📊 GitHub Stats
 
-[![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula)](https://git.io/streak-stats)
+[![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahid200620&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Personal Website](https://img.shields.io/badge/Website-171717?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR_PERSONAL_WEBSITE_URL)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/YOUR_DEVTO_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shahid Ali Khan Mohammed)
 ---
 
 * * *
 
-_Generated with ❤️ by [Your Name or Alias]_
+_Generated with ❤️ by [Shahid]_
