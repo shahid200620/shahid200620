@@ -1,9 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  width="100"/>
   <h1>Hi there 👋, I'm MOHAMMED SHAHID ALI KHAN!</h1>
+  
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" Width="700"/>
+  
   <h3>A passionate 🤖Tech Enthusiast and 🛠️🧠Self Taught Coder from Aditya University.</h3>
+
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Crafting+Intelligent+Systems;RAG+%26+LLM+Specialist;Let's+Build+Something+Amazing!)](https://git.io/typing-svg))](https://git.io/typing-svg)
+
+
 </div>
 
 <img align="right" alt="Coding" width="350" padding-top="100"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
