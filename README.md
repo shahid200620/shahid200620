@@ -68,6 +68,8 @@ Here are some of the technologies and tools I enjoy working with:
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 </div>
+
+
 ---
 
 **💾 Databases:**
@@ -80,6 +82,8 @@ Here are some of the technologies and tools I enjoy working with:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
+
+
 ---
 
 **🛠️ Tools & Platforms:**
@@ -93,6 +97,7 @@ Here are some of the technologies and tools I enjoy working with:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
+
 ---
 
 ### 📊 GitHub Stats
@@ -139,5 +144,7 @@ Here are some of the technologies and tools I enjoy working with:
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+---
 
 _Generated with ❤️ by [Shahid]_
