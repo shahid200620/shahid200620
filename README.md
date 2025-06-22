@@ -104,12 +104,17 @@ Here are some of the technologies and tools I enjoy working with:
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkhileshMalthi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhileshMalthi&layout=compact&theme=radical&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahid200620&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahid200620&layout=compact&theme=radical&hide_border=true"/>
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhileshMalthi&theme=radical&hide_border=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid200620&theme=radical&hide_border=true" />
+  
 </div>
 
 
