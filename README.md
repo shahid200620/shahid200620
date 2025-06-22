@@ -3,10 +3,10 @@
   <h1>Hi there 👋, I'm MOHAMMED SHAHID ALI KHAN!</h1>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" Width="700"/>
   <h3>A passionate 🤖Tech Enthusiast and 🛠️🧠Self Taught Coder from Aditya University.</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matangi&size=40&pause=1000&color=8B83F7&random=true&width=276&height=70&lines=Let's+build+something+Amazing!;Incubating++Entrepreneur;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=9E71F7&width=435&lines=Let's+build+something+Amazing!;Incubating++Entrepreneur;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" padding-top="100"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🙋‍♂️ About Me
 
