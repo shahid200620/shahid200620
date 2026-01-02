@@ -106,19 +106,6 @@ Here are some of the technologies and tools I enjoy working with:
 
 ---
 
-### 📊 GitHub Stats
-
-
-<div align="center">
-
-<img align="right" alt="Coding" width="300"   src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-  
-[![YOUR_NAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=23A91A0537&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23A91A0537&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-</div>
 
 <div align="center">
 
