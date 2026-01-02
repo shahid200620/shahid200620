@@ -102,18 +102,7 @@ Participated in the **UIF Meetup at Stanford University**, collaborating with in
 
 </div>
 
----
 
-### 🛡️ Cybersecurity & Ethical Hacking (Learning)
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-
-</div>
 
 ---
 
