@@ -119,9 +119,9 @@ Participated in the **UIF Meetup at Stanford University**, collaborating with in
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid200620&custom_title=My%20Tech%20Journey&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&title_color=FFFFFF"/>
-
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahid200620&custom_title=My%20Tech%20Journey&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&title_color=FFFFFF" alt="GitHub Activity Graph"/>
+  
 </div>
 
 ---
