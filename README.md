@@ -118,13 +118,6 @@ Participated in the **UIF Meetup at Stanford University**, collaborating with in
 
 ---
 
-<div align="center">
-
-![My Tech Journey](https://github-readme-activity-graph.vercel.app/graph?username=shahid200620&custom_title=My%20Tech%20Journey&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&title_color=FFFFFF&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate
 
